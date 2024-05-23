@@ -1,0 +1,35 @@
+
+7
+main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
+W
+'multipledatbase/multipledatbase/urls.py,7\d\7d31f7a7905e7470d955044319b5763d789ca40b
+I
+multipledatbase/manage.py,5\8\58536364c12f5a4bb26fd32f957d361e8277abe7
+P
+ multipledatbase/company/utils.py,1\e\1ee57279b478ee8287c986a1ae15fb392273b8ba
+f
+6venv/Lib/site-packages/django/contrib/auth/__init__.py,7\b\7bdabaa64f51d904b256c474270eb25f03f4df22
+D
+multipledatbase/.env,1\5\155626585c867eab264a973275ceb15fefe6d9bf
+O
+multipledatbase/company/urls.py,3\2\3245094c4cca70f07d3cfc773e7bbc3352cca709
+[
++multipledatbase/multipledatbase/settings.py,8\9\89a1be04b90c9c1b5a8d8c5ad48db3cf4f9eac6d
+Q
+!multipledatbase/company/models.py,b\f\bfe9d896857aa4ee6b041968c12f269e430a6831
+U
+%multipledatbase/company/serializer.py,b\2\b2437aa34eb327bdad5159130fffda82b6744b3c
+P
+ multipledatbase/company/views.py,8\e\8e93a32b438ce0ec05f2a765d31b155a2c520287
+R
+"multipledatbase/companyA/models.py,1\8\182e27b426983872a8047f64ff5abf14b4f92144
+^
+.multipledatbase/company/migrations/__init__.py,5\4\54d370a2f4be46afc17dca8a3e111a4289774559
+S
+#multipledatbase/company/__init__.py,f\7\f773c83e9c9690c70f9dac50b902ddd819df8b96
+_
+/multipledatbase/companyA/migrations/__init__.py,9\4\946d7e0cf67de2f39cd8594495ab969ec351448f
+K
+multipledatbase/__init__.py,4\7\477ce484a41fc7a5fbe8be4b3080298db175d158
+Y
+)multipledatbase/multipledatbase/router.py,c\2\c263ad428c35346de8a6c87619f794238b52c4c9
